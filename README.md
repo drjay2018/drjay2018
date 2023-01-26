@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasser R. Moreno</h1>
-<h3 align="center">Más de 10 años de experiencia en analitica y ciencia de los Datos.</h3>
+<h3 align="center">Cientifico de Datos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drjay2018&label=Profile%20views&color=0e75b6&style=flat" alt="drjay2018" /> </p>
 
