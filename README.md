@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drjay2018&label=Profile%20views&color=0e75b6&style=flat" alt="drjay2018" /> </p>
 
-- 🔭 I’m currently working on **Algoritmo Capacidad de Endeudamiento**
+- 🔭 I’m currently working on **Algoritmo Capacidad de Endeudamiento en Lenguaje de Programacion Python**
 
 - 🌱 I’m currently learning **Modelos Machine Learning**
 
