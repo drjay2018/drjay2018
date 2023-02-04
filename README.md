@@ -24,3 +24,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drjay2018&show_icons=true&locale=en" alt="drjay2018" /></p>
 
+| Columna 1 | Columna 2 |
+|-----------|-----------|
+| Valor 1   | Valor 2   |
+| Valor 3   | Valor 4   |
+| Valor 5   | Valor 6   |
