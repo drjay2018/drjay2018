@@ -28,6 +28,6 @@
 
 | Tema | Plataforma | Enlace |
 |-----------|-----------|-----------|
-| * Supermarket basket analysis  | ![Texto alternativo](https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg)   |[Enlace](https://www.linkedin.com/posts/jasser-moreno-medina_analisis-de-basket-super-power-bi-activity-6994869685607350272-bXb_?utm_source=share&utm_medium=member_desktop) |
+| * Supermarket basket analysis  | ![Texto alternativo](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)   |[Enlace](https://www.linkedin.com/posts/jasser-moreno-medina_analisis-de-basket-super-power-bi-activity-6994869685607350272-bXb_?utm_source=share&utm_medium=member_desktop) |
 | * Valor 4   | Valor 5   | Valor 6   |
 | * Valor 7   | Valor 8   | Valor 9   |
