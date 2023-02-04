@@ -34,4 +34,4 @@
 | * Mapa Interactivo Python   | ![Texto alternativo](https://www.vectorlogo.zone/logos/python/python-icon.svg)  | [Enlace](https://www.linkedin.com/feed/update/urn:li:activity:6666728138808061952/)   |
 | * Mapa Interactivo QGIS  | ![Texto alternativo]()   | [Enlace](https://www.linkedin.com/feed/update/urn:li:activity:6711440696299065345/)   |
 | * Dashboard  | ![Texto alternativo](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)   | [Enlace](https://www.linkedin.com/feed/update/urn:li:activity:6738136037496823808/)   |
-| * Valor 7   | ![Texto alternativo]()   | [Enlace]()   |
+
