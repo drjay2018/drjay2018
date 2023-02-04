@@ -28,6 +28,6 @@
 
 | Tema | Plataforma | Enlace |
 |-----------|-----------|-----------|
-| * Desarollo en Python  | ![Texto alternativo](https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/python.svg)   |https://www.linkedin.com/posts/jasser-moreno-medina_analisis-de-basket-super-power-bi-activity-6994869685607350272-bXb_?utm_source=share&utm_medium=member_desktop |
+| * Desarollo en Python  | ![Texto alternativo](https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/python.svg)   |[Enlace](https://www.linkedin.com/posts/jasser-moreno-medina_analisis-de-basket-super-power-bi-activity-6994869685607350272-bXb_?utm_source=share&utm_medium=member_desktop) |
 | * Valor 4   | Valor 5   | Valor 6   |
 | * Valor 7   | Valor 8   | Valor 9   |
