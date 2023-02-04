@@ -26,8 +26,12 @@
 
 <h3 align="left"> Proyectos Personales:</h3>
 
-| Enlace | Plataforma Desarrollo|
-|-----------|-----------|
-| Valor 1   | Valor 2   |
-| Valor 3   | Valor 4   |
-| Valor 5   | Valor 6   |
+- Tema| Plataforma | Enlace
+- -------- | -------- | --------
+- * Item 1 | ![Texto alternativo](https://raw.githubusercontent.com/icons8/flat-color-icons/master/svg/debt.svg)  | Description 1
+- * Item 2 | Value 2  | Description 2
+- * Item 3 | Value 3  | Description 3
+- * Item 3 | Value 3  | Description 3
+- * Item 3 | Value 3  | Description 3
+- * Item 3 | Value 3  | Description 3
+- * Item 3 | Value 3  | Description 3
