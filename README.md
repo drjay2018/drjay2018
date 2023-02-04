@@ -28,6 +28,6 @@
 
 | Tema | Plataforma | Enlace |
 |-----------|-----------|-----------|
-| * Valor 1   | Valor 2   | Valor 3   |
+| * Valor 1   | Valor 2   | ![Texto alternativo](https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/python.svg){width=32px height=32px}   |
 | * Valor 4   | Valor 5   | Valor 6   |
 | * Valor 7   | Valor 8   | Valor 9   |
