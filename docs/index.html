@@ -237,7 +237,7 @@ footer{padding-block:0 32px;color:var(--muted);font-size:12.5px;display:flex;jus
     <div class="kpi"><div class="v" data-count="10" data-suffix="+">10+</div><div class="l">años entre negocio, datos y BI</div></div>
     <div class="kpi"><div class="v" data-count="15" data-suffix="+">15+</div><div class="l">empresas atendidas</div></div>
     <div class="kpi"><div class="v" data-count="200" data-suffix="+">200+</div><div class="l">profesionales formados</div></div>
-    <div class="kpi"><div class="v" id="kpiProjects">47</div><div class="l">proyectos y soluciones documentadas</div></div>
+    <div class="kpi"><div class="v" id="kpiProjects">50</div><div class="l">proyectos y soluciones documentadas</div></div>
     <div class="kpi"><div class="v" data-count="500" data-prefix="~" data-suffix="M">~500M</div><div class="l">filas procesadas en un lakehouse local</div></div>
     <div class="kpi"><div class="v" data-count="80" data-prefix="−" data-suffix=" %">−80 %</div><div class="l">tiempo de elaboración de reportes</div></div>
   </div>
@@ -442,6 +442,9 @@ const P=[
  ,["bi","Algoritmo de capacidad de endeudamiento","Evaluar capacidad de pago con criterios manuales y dispares.","Modelo que estima la capacidad de endeudamiento a partir de ingresos y obligaciones.","Decisiones de crédito más consistentes.",["Python","scikit-learn"],"wip"]
  ,["pa","Dashboard ejecutivo de KPIs de Gestión Humana","La dirección no veía los indicadores de talento consolidados.","Tablero ejecutivo con rotación, ausentismo, headcount y costo de personal.","Gestión humana medida con los mismos KPIs cada mes.",["Power BI","DAX"],"ok","https://www.linkedin.com/feed/update/urn:li:activity:6738136037496823808/"]
  ,["fac","Mentoría 1:1 y por equipo","Profesionales que aprenden herramientas sin un plan ni casos reales.","Acompañamiento con un proyecto propio del participante, de los datos crudos al dashboard.","Autonomía en Power BI, Power Query y Python.",["Power BI","Power Query","Python"],"ok"]
+ ,["bi","Pruebas Nacionales de República Dominicana","Los resultados de las Pruebas Nacionales no se analizaban junto con el catálogo de centros ni con el territorio.","Cruce de calificaciones 2016-2020 con el catálogo de centros y los límites del Censo 2010: rendimiento por materia, modalidad y género, correlaciones y mapas.","Notebook público y reproducible con datos abiertos del Estado.",["pandas","GeoPandas","Folium","Plotly"],"ok","https://github.com/drjay2018/analisis-pruebas-nacionales-rd"]
+ ,["bi","Planteles educativos de República Dominicana","La oferta educativa, con más de 7,000 planteles, no se veía en conjunto ni sobre el mapa.","Análisis de planteles y matrícula 2021 por provincia, nivel y distrito educativo, con mapa interactivo por nivel.","Notebook público con datos abiertos de datos.gob.do.",["pandas","GeoPandas","Folium","Sweetviz"],"ok","https://github.com/drjay2018/analisis-de-escuelas-rd"]
+ ,["pa","Análisis de nómina estatal","Archivos de nómina pública con instituciones, tipos de empleo y cargos escritos de forma distinta.","Flujo ETL que consolida tres archivos, normaliza campos y cargos, trata valores atípicos y analiza sueldos brutos y netos.","Sueldos comparables por institución, tipo de empleo y cargo. Edad y provincia son simuladas, con fines de ejemplo.",["pandas","NLTK","Seaborn"],"ok","https://github.com/drjay2018/clasificador-sueldos-nomina-estatal"]
 ].map(([line,name,prob,sol,res,stack,status,link],i)=>({id:i,line,name,prob,sol,res,stack,status,link}));
 
 const st={line:"all",status:"all",q:""};
@@ -473,7 +476,7 @@ function renderGrid(){
   $("#grid").innerHTML=list.length?list.map(p=>`
     <button type="button" class="card" data-id="${p.id}" aria-label="Ver detalle: ${p.name}">
       <div class="top"><span class="ln"><span class="lnico">${ICON[p.line]}</span>${LINES[p.line].t}</span><span class="pill ${p.status}">${ICON[p.status]}${STATUS[p.status].t}</span></div>
-      <h3>${p.name}</h3><p>${p.res}</p><span class="more">${p.link?"Caso publicado":"Ver caso"} ${ICON.arrow}</span>
+      <h3>${p.name}</h3><p>${p.res}</p><span class="more">${p.link?(p.link.includes("github.com")?"Código abierto":"Caso publicado"):"Ver caso"} ${ICON.arrow}</span>
       <div class="stack">${p.stack.map(s=>`<span class="chip">${s}</span>`).join("")}</div>
     </button>`).join(""):`<div class="empty">No hay proyectos con esos filtros. Prueba con otra línea o borra la búsqueda.</div>`;
 }
@@ -486,7 +489,7 @@ function openDrawer(id){
   $("#dIcon").innerHTML=ICON[p.line];
   $("#dProb").textContent=p.prob; $("#dSol").textContent=p.sol; $("#dRes").textContent=p.res;
   $("#dStack").innerHTML=p.stack.map(s=>`<span class="tag">${s}</span>`).join("");
-  $("#dLink").innerHTML=p.link?`<a class="evid" href="${p.link}" target="_blank" rel="noopener">Ver caso publicado ${ICON.link}</a>`:"";
+  $("#dLink").innerHTML=p.link?`<a class="evid" href="${p.link}" target="_blank" rel="noopener">${p.link.includes("github.com")?"Ver código en GitHub":"Ver caso publicado"} ${ICON.link}</a>`:"";
   $("#drawer").classList.add("on"); $("#scrim").classList.add("on"); $("#drawer").setAttribute("aria-hidden","false");
   $("#dClose").focus();
 }

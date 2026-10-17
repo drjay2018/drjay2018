@@ -7,7 +7,7 @@
 <text x="22" y="104" fill="#F8FAFC" font-size="16.5" font-weight="700">Análisis de Datos y BI</text>
 <text x="22" y="128" fill="#2DD4BF" font-size="11.5" font-weight="700" letter-spacing="1">DECISIONES CON DATOS</text>
 <text x="22" y="156" fill="#94A3B8" font-size="13">Modelado · Dashboards · Geoanálisis</text>
-<rect x="22" y="168" width="99.2" height="22" rx="11" fill="#0E3B43"/>
-<text x="32" y="183" fill="#5EEAD4" font-size="12" font-weight="700">9 proyectos</text>
+<rect x="22" y="168" width="106.4" height="22" rx="11" fill="#0E3B43"/>
+<text x="32" y="183" fill="#5EEAD4" font-size="12" font-weight="700">11 proyectos</text>
 <g transform="translate(246,171)" fill="none" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0 8h14M9 3l5 5-5 5"/></g>
 </svg>

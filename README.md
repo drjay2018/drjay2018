@@ -16,7 +16,7 @@
 
 <p align="center"><a href="https://drjay2018.github.io/drjay2018/"><img src="assets/btn-portafolio.svg" alt="Explorar portafolio interactivo" height="52"></a></p>
 
-<img src="assets/kpis.svg" alt="10+ años · 15+ empresas · 200+ profesionales formados · 47 proyectos · ~500M filas · −80 % tiempo de reportes" width="100%">
+<img src="assets/kpis.svg" alt="10+ años · 15+ empresas · 200+ profesionales formados · 50 proyectos · ~500M filas · −80 % tiempo de reportes" width="100%">
 
 <br><br>
 
@@ -57,7 +57,7 @@
 <p align="center"><sub>Toca una tarjeta para abrir esa línea en el portafolio interactivo, o despliega el detalle abajo.</sub></p>
 
 <details>
-<summary><b>01 · Análisis de Datos y BI</b> · 9 proyectos</summary>
+<summary><b>01 · Análisis de Datos y BI</b> · 11 proyectos</summary>
 <br>
 
 | Proyecto | Problema → Resultado | Stack | Estado |
@@ -71,6 +71,8 @@
 | [**Análisis de cesta de supermercado**](https://www.linkedin.com/posts/jasser-moreno-medina_analisis-de-basket-super-power-bi-activity-6994869685607350272-bXb_) | Un retail no sabía qué productos se compran juntos. → Ideas accionables de surtido, ubicación y promociones cruzadas. | `Power BI` `DAX` | <img src="assets/st-ok.svg" alt="Entregado"> |
 | [**Suite de mapas interactivos**](https://www.youtube.com/watch?v=hmv6i9KBqsw&list=PLl0vFx8KRNdckH3FpyAruwFCAzHTEaGCD) | Datos con ubicación analizados solo en tablas. → Patrones territoriales visibles de un vistazo. | `Python` `QGIS` `folium` | <img src="assets/st-ok.svg" alt="Entregado"> |
 | **Algoritmo de capacidad de endeudamiento** | Evaluar capacidad de pago con criterios manuales y dispares. → Decisiones de crédito más consistentes. | `Python` `scikit-learn` | <img src="assets/st-wip.svg" alt="Piloto"> |
+| [**Pruebas Nacionales de República Dominicana**](https://github.com/drjay2018/analisis-pruebas-nacionales-rd) | Los resultados de las Pruebas Nacionales no se analizaban junto con el catálogo de centros ni con el territorio → Notebook público y reproducible con datos abiertos del Estado | `pandas` `GeoPandas` `Folium` `Plotly` | <img src="assets/st-ok.svg" alt="Entregado"> |
+| [**Planteles educativos de República Dominicana**](https://github.com/drjay2018/analisis-de-escuelas-rd) | La oferta educativa, con más de 7,000 planteles, no se veía en conjunto ni sobre el mapa → Notebook público con datos abiertos de datos.gob.do | `pandas` `GeoPandas` `Folium` `Sweetviz` | <img src="assets/st-ok.svg" alt="Entregado"> |
 
 </details>
 
@@ -147,7 +149,7 @@
 </details>
 
 <details>
-<summary><b>07 · People Analytics (especialización)</b> · 5 proyectos</summary>
+<summary><b>07 · People Analytics (especialización)</b> · 6 proyectos</summary>
 <br>
 
 | Proyecto | Problema → Resultado | Stack | Estado |
@@ -157,6 +159,7 @@
 | **Estimador salarial público** | Sin referencia salarial del mercado local. → Decisiones de compensación con datos. | `Python` `Power BI` | <img src="assets/st-ok.svg" alt="Entregado"> |
 | **Reportería de RRHH automatizada** | Reportes de RRHH armados a mano cada mes. → −80 % del tiempo dedicado a reportes. | `Power BI` `SQL` | <img src="assets/st-ok.svg" alt="Entregado"> |
 | [**Dashboard ejecutivo de KPIs de Gestión Humana**](https://www.linkedin.com/feed/update/urn:li:activity:6738136037496823808/) | La dirección no veía los indicadores de talento consolidados. → Gestión humana medida con los mismos KPIs cada mes. | `Power BI` `DAX` | <img src="assets/st-ok.svg" alt="Entregado"> |
+| [**Análisis de nómina estatal**](https://github.com/drjay2018/clasificador-sueldos-nomina-estatal) | Archivos de nómina pública con instituciones, tipos de empleo y cargos escritos de forma distinta → Sueldos comparables por institución, tipo de empleo y cargo (edad y provincia simuladas) | `pandas` `NLTK` `Seaborn` | <img src="assets/st-ok.svg" alt="Entregado"> |
 
 </details>
 
