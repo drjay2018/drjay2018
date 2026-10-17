@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#2DD4BF"/></marker></defs>
+<rect x="1" y="1" width="1198" height="298" rx="16" fill="#0B1220" stroke="#1E3A4C" stroke-width="2"/>
+<g>
+ <rect x="24" y="24" width="360" height="252" rx="14" fill="#0E3B43" stroke="#2DD4BF" stroke-width="2"/>
+ <text x="48" y="60" fill="#2DD4BF" font-size="12" font-weight="700" letter-spacing="2">1 · EN GENERAL</text>
+ <text x="48" y="96" fill="#F8FAFC" font-size="26" font-weight="800">Análisis de datos y BI</text>
+ <text x="48" y="130" fill="#CBD5E1" font-size="14">Convierto datos dispersos en respuestas:</text>
+ <text x="48" y="150" fill="#CBD5E1" font-size="14">qué pasa, por qué y qué hacer.</text>
+ <g font-size="13" fill="#5EEAD4" font-weight="600">
+  <circle cx="52" cy="187.5" r="3.5" fill="#2DD4BF"/><text x="64" y="192">Modelado de datos y KPIs</text><circle cx="52" cy="211.5" r="3.5" fill="#2DD4BF"/><text x="64" y="216">Dashboards ejecutivos</text><circle cx="52" cy="235.5" r="3.5" fill="#2DD4BF"/><text x="64" y="240">Análisis exploratorio y geoespacial</text></g>
+</g>
+<line x1="392" y1="150" x2="414" y2="150" stroke="#2DD4BF" stroke-width="2" marker-end="url(#ar)"/>
+<g>
+ <rect x="420" y="24" width="360" height="252" rx="14" fill="#0F172A" stroke="#1E3A4C" stroke-width="2"/>
+ <text x="444" y="60" fill="#2DD4BF" font-size="12" font-weight="700" letter-spacing="2">2 · CÓMO LO HAGO</text>
+ <text x="444" y="96" fill="#F8FAFC" font-size="24" font-weight="800">La base que lo sostiene</text>
+ <text x="444" y="130" fill="#CBD5E1" font-size="14">Para que el análisis se actualice solo</text>
+ <text x="444" y="150" fill="#CBD5E1" font-size="14">y sea confiable.</text>
+ <g font-size="13" fill="#94A3B8" font-weight="600">
+  <circle cx="448" cy="187.5" r="3.5" fill="#2DD4BF"/><text x="460" y="192">Automatización y extracción</text><circle cx="448" cy="211.5" r="3.5" fill="#2DD4BF"/><text x="460" y="216">Ingeniería y arquitectura de datos</text><circle cx="448" cy="235.5" r="3.5" fill="#2DD4BF"/><text x="460" y="240">Gobierno, calidad e infraestructura</text></g>
+</g>
+<line x1="788" y1="150" x2="810" y2="150" stroke="#2DD4BF" stroke-width="2" marker-end="url(#ar)"/>
+<g>
+ <rect x="816" y="24" width="360" height="252" rx="14" fill="#0F172A" stroke="#1E3A4C" stroke-width="2"/>
+ <text x="840" y="60" fill="#2DD4BF" font-size="12" font-weight="700" letter-spacing="2">3 · EN ESPECÍFICO</text>
+ <text x="840" y="96" fill="#F8FAFC" font-size="24" font-weight="800">Aplicado a tu operación</text>
+ <g font-size="14"><text x="840" y="136" fill="#F8FAFC" font-weight="700">Finanzas y cobranza</text><text x="840" y="154" fill="#94A3B8" font-size="12.5">Conciliaciones, precios, cartera</text>
+ <text x="840" y="182" fill="#F8FAFC" font-weight="700">Comercial e inmobiliario</text><text x="840" y="200" fill="#94A3B8" font-size="12.5">CRM con BI, comisiones, alertas</text>
+ <text x="840" y="228" fill="#F8FAFC" font-weight="700">Operaciones · Talento</text><text x="840" y="246" fill="#94A3B8" font-size="12.5">Logística, geoanálisis, People Analytics</text></g>
+</g>
+</svg>

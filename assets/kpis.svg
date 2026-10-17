@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#38BDF8"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="128" rx="16" fill="#0B1220" stroke="#1E3A4C" stroke-width="2"/>
+<g><animate attributeName="opacity" values="0;1" begin="0.0s" dur=".5s" fill="freeze"/><text x="100.0" y="64" text-anchor="middle" fill="url(#g)" font-size="36" font-weight="800">10+</text><text x="100.0" y="90" text-anchor="middle" fill="#94A3B8" font-size="13">años entre negocio,</text><text x="100.0" y="107" text-anchor="middle" fill="#94A3B8" font-size="13">datos y BI</text></g>
+<line x1="200.0" y1="22" x2="200.0" y2="108" stroke="#1E3A4C" stroke-width="2"/>
+<g><animate attributeName="opacity" values="0;1" begin="0.15s" dur=".5s" fill="freeze"/><text x="300.0" y="64" text-anchor="middle" fill="url(#g)" font-size="36" font-weight="800">15+</text><text x="300.0" y="90" text-anchor="middle" fill="#94A3B8" font-size="13">empresas atendidas</text></g>
+<line x1="400.0" y1="22" x2="400.0" y2="108" stroke="#1E3A4C" stroke-width="2"/>
+<g><animate attributeName="opacity" values="0;1" begin="0.3s" dur=".5s" fill="freeze"/><text x="500.0" y="64" text-anchor="middle" fill="url(#g)" font-size="36" font-weight="800">200+</text><text x="500.0" y="90" text-anchor="middle" fill="#94A3B8" font-size="13">profesionales</text><text x="500.0" y="107" text-anchor="middle" fill="#94A3B8" font-size="13">formados</text></g>
+<line x1="600.0" y1="22" x2="600.0" y2="108" stroke="#1E3A4C" stroke-width="2"/>
+<g><animate attributeName="opacity" values="0;1" begin="0.44999999999999996s" dur=".5s" fill="freeze"/><text x="700.0" y="64" text-anchor="middle" fill="url(#g)" font-size="36" font-weight="800">47</text><text x="700.0" y="90" text-anchor="middle" fill="#94A3B8" font-size="13">proyectos</text><text x="700.0" y="107" text-anchor="middle" fill="#94A3B8" font-size="13">documentados</text></g>
+<line x1="800.0" y1="22" x2="800.0" y2="108" stroke="#1E3A4C" stroke-width="2"/>
+<g><animate attributeName="opacity" values="0;1" begin="0.6s" dur=".5s" fill="freeze"/><text x="900.0" y="64" text-anchor="middle" fill="url(#g)" font-size="36" font-weight="800">~500M</text><text x="900.0" y="90" text-anchor="middle" fill="#94A3B8" font-size="13">filas procesadas en</text><text x="900.0" y="107" text-anchor="middle" fill="#94A3B8" font-size="13">lakehouse</text></g>
+<line x1="1000.0" y1="22" x2="1000.0" y2="108" stroke="#1E3A4C" stroke-width="2"/>
+<g><animate attributeName="opacity" values="0;1" begin="0.75s" dur=".5s" fill="freeze"/><text x="1100.0" y="64" text-anchor="middle" fill="url(#g)" font-size="36" font-weight="800">−80 %</text><text x="1100.0" y="90" text-anchor="middle" fill="#94A3B8" font-size="13">tiempo de</text><text x="1100.0" y="107" text-anchor="middle" fill="#94A3B8" font-size="13">elaboración de reportes</text></g>
+</svg>

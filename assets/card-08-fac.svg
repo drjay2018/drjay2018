@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="284" height="202" viewBox="-1 -1 284 202" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="acc" x1="0" x2="1"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#38BDF8"/></linearGradient></defs>
+<rect width="282" height="200" rx="14" fill="#0F172A" stroke="#1E3A4C" stroke-width="2"/>
+<rect width="282" height="5" rx="2" fill="url(#acc)"/>
+<circle cx="42" cy="48" r="22" fill="#0E3B43"/><g transform="translate(42,48)"><path d="M-13-3L0-10l13 7L0 4z" fill="none" stroke="#2DD4BF" stroke-width="2.5" stroke-linejoin="round"/><path d="M-7 1v6c0 2 3 4 7 4s7-2 7-4V1" fill="none" stroke="#38BDF8" stroke-width="2.5"/></g>
+<text x="260" y="56" text-anchor="end" fill="#1E3A4C" font-size="34" font-weight="800">08</text>
+<text x="22" y="104" fill="#F8FAFC" font-size="16.5" font-weight="700">Tutoría y Facilitación</text>
+<text x="22" y="128" fill="#2DD4BF" font-size="11.5" font-weight="700" letter-spacing="1">MENTORÍA Y FORMACIÓN</text>
+<text x="22" y="156" fill="#94A3B8" font-size="13">Mentoría · In-company · Diplomados</text>
+<rect x="22" y="168" width="99.2" height="22" rx="11" fill="#0E3B43"/>
+<text x="32" y="183" fill="#5EEAD4" font-size="12" font-weight="700">6 programas</text>
+<g transform="translate(246,171)" fill="none" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0 8h14M9 3l5 5-5 5"/></g>
+</svg>

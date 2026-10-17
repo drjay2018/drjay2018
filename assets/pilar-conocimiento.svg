@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="300" viewBox="0 0 384 300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#38BDF8"/></linearGradient></defs>
+<rect x="1" y="1" width="382" height="298" rx="16" fill="#0F172A" stroke="#1E3A4C" stroke-width="2"/>
+<rect x="24" y="24" width="48" height="48" rx="12" fill="#0E3B43"/>
+<g transform="translate(36,36)" fill="none" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4.5A2.5 2.5 0 0 1 6.5 2H20v17H6.5A2.5 2.5 0 0 0 4 21.5z"/><path d="M4 21.5V4.5M9 7h7M9 11h5"/></g>
+<text x="24" y="100" fill="#2DD4BF" font-size="11.5" font-weight="700" letter-spacing="1.6">ABIERTO PARA TODOS</text>
+<text x="24" y="132" fill="#F8FAFC" font-size="28" font-weight="800">Conocimiento</text>
+<rect x="28" y="150" width="7" height="7" rx="2" fill="#2DD4BF"/><text x="44" y="157" fill="#CBD5E1" font-size="14">Newsletter 0 Manualidades</text><rect x="28" y="176" width="7" height="7" rx="2" fill="#2DD4BF"/><text x="44" y="183" fill="#CBD5E1" font-size="14">YouTube · 2,000+ suscriptores</text><rect x="28" y="202" width="7" height="7" rx="2" fill="#2DD4BF"/><text x="44" y="209" fill="#CBD5E1" font-size="14">Instagram @morenodatasolutions</text><rect x="28" y="228" width="7" height="7" rx="2" fill="#2DD4BF"/><text x="44" y="235" fill="#CBD5E1" font-size="14">Casos y demos con datos sintéticos</text>
+<text x="24" y="276" fill="#2DD4BF" font-size="14" font-weight="700">Leer y aprender</text>
+<g transform="translate(147.0,266)" fill="none" stroke="#2DD4BF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M0 7h13M8 2l5 5-5 5"><animateTransform attributeName="transform" type="translate" values="0 0;4 0;0 0" dur="1.6s" repeatCount="indefinite"/></path></g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#0F2A3D"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" x2="1">
+      <stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#0E7490"/><stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1E3A4C" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.8" cy="0.4" r="0.5">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity=".18"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)" opacity=".45"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+  <rect x="0" y="0" width="1200" height="5" rx="2" fill="url(#acc)"/>
+
+  <text x="70" y="92" fill="#2DD4BF" font-size="15" font-weight="700" letter-spacing="5">MORENO DATA SOLUTIONS</text>
+  <text x="68" y="152" fill="#F8FAFC" font-size="52" font-weight="800">Jasser R. Moreno</text>
+  <text x="70" y="192" fill="#94A3B8" font-size="21">Análisis de Datos  ·  Business Intelligence  ·  Automatización</text>
+  <rect x="70" y="214" width="196" height="38" rx="19" fill="none" stroke="url(#acc)" stroke-width="2"/>
+  <circle cx="92" cy="233" r="5" fill="#2DD4BF">
+    <animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="106" y="239" fill="#E2E8F0" font-size="16" font-weight="700">0 Manualidades</text>
+  <text x="286" y="239" fill="#64748B" font-size="15">Servicios · Tutoría · Conocimiento</text>
+
+  <line x1="800" y1="240" x2="1140" y2="240" stroke="#334155" stroke-width="2"/>
+  <g fill="url(#bar)">
+    <rect x="820" y="180" width="34" height="60" rx="5"><animate attributeName="height" from="0" to="60" dur="1s" fill="freeze"/><animate attributeName="y" from="240" to="180" dur="1s" fill="freeze"/></rect>
+    <rect x="872" y="155" width="34" height="85" rx="5"><animate attributeName="height" from="0" to="85" dur="1.1s" fill="freeze"/><animate attributeName="y" from="240" to="155" dur="1.1s" fill="freeze"/></rect>
+    <rect x="924" y="130" width="34" height="110" rx="5"><animate attributeName="height" from="0" to="110" dur="1.2s" fill="freeze"/><animate attributeName="y" from="240" to="130" dur="1.2s" fill="freeze"/></rect>
+    <rect x="976" y="145" width="34" height="95" rx="5"><animate attributeName="height" from="0" to="95" dur="1.3s" fill="freeze"/><animate attributeName="y" from="240" to="145" dur="1.3s" fill="freeze"/></rect>
+    <rect x="1028" y="100" width="34" height="140" rx="5"><animate attributeName="height" from="0" to="140" dur="1.4s" fill="freeze"/><animate attributeName="y" from="240" to="100" dur="1.4s" fill="freeze"/></rect>
+    <rect x="1080" y="65" width="34" height="175" rx="5"><animate attributeName="height" from="0" to="175" dur="1.5s" fill="freeze"/><animate attributeName="y" from="240" to="65" dur="1.5s" fill="freeze"/></rect>
+  </g>
+  <polyline points="837,166 889,141 941,116 993,131 1045,86 1097,51" fill="none" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="400" stroke-dashoffset="400">
+    <animate attributeName="stroke-dashoffset" from="400" to="0" begin="1.2s" dur="1.2s" fill="freeze"/>
+  </polyline>
+  <circle cx="1097" cy="51" r="6" fill="#38BDF8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.3s" dur=".3s" fill="freeze"/>
+    <animate attributeName="r" values="6;10;6" begin="2.6s" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

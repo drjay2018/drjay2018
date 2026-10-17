@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#38BDF8"/></linearGradient></defs>
+<rect x="1" y="8" width="48" height="48" rx="12" fill="#0E3B43"/>
+<g transform="translate(13,20)" fill="none" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 9 5-9 5-9-5z"/><path d="m3 13 9 5 9-5"/></g>
+<text x="66" y="42" fill="#0D9488" font-size="26" font-weight="800">Stack tecnológico</text>
+<rect x="66" y="54" width="0" height="3" rx="1.5" fill="url(#g)"><animate attributeName="width" from="0" to="120" dur="1s" fill="freeze"/></rect>
+</svg>

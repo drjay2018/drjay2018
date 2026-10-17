@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="52" viewBox="0 0 330 52" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#38BDF8"/></linearGradient></defs>
+<rect width="330" height="52" rx="26" fill="url(#g)"/>
+<g transform="translate(22,14)" fill="none" stroke="#0B1220" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="1" width="22" height="22" rx="4"/><path d="M8 1v22M1 8h7M1 16h7"/></g>
+<text x="58" y="32" fill="#0B1220" font-size="17" font-weight="800">Explorar portafolio interactivo</text>
+<g transform="translate(296,18)" fill="none" stroke="#0B1220" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M0 8h14M9 3l5 5-5 5"><animateTransform attributeName="transform" type="translate" values="0 0;4 0;0 0" dur="1.6s" repeatCount="indefinite"/></path></g>
+</svg>
